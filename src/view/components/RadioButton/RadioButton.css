@@ -1,0 +1,32 @@
+.RadioButton {
+    display: table;
+
+    border-collapse: collapse;
+
+    width: 100%;
+}
+
+.RadioButton-Inner {
+    display: table-row;
+}
+
+.RadioButton-ButtonWrap {
+    display: table-cell;
+}
+
+.RadioButton-Button {
+    border-radius: 0px;
+    width: 100%;
+}
+
+.RadioButton-Button_side_right {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-left: 0;
+}
+
+.RadioButton-Button_side_left {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-right: 0;
+}

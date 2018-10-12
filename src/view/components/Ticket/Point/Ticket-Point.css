@@ -1,0 +1,31 @@
+.Ticket-Point {
+    lost-column: 1/2 0 0px flex;
+}
+
+.Ticket-PointTime {
+    color: #4A4A4A;
+    font-size: 32px;
+    line-height: 1em;
+}
+
+.Ticket-PointTitle {
+    color: #4A4A4A;
+    font-size: 12px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.Ticket-PointDate {
+    color: #8B9497;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.Ticket-Point_mode_origin {
+    text-align: left;
+}
+
+.Ticket-Point_mode_destination {
+    text-align: right;
+}

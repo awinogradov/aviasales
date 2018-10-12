@@ -1,0 +1,31 @@
+.Ticket {
+    lost-flex-container: row;
+
+    margin-bottom: 20px;
+
+    min-height: 160px;
+}
+
+.Ticket-Controls,
+.Ticket-Info {
+    box-sizing: border-box;
+}
+
+.Ticket-Controls {
+    lost-column: 3/9 0 0px flex;
+
+    border-right: 1px solid #ECEFF1;
+
+    text-align: center;
+}
+
+.Ticket-Info {
+    lost-column: 6/9 0 0px flex;
+    lost-flex-container: row;
+
+    position: relative;
+}
+
+.Ticket-Button {
+    margin-top: 20px;
+}

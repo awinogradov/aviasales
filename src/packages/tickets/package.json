@@ -1,0 +1,17 @@
+{
+  "name": "@aviasales/tickets",
+  "version": "1.0.0",
+  "description": "Aviasales tickets source",
+  "main": "index.ts",
+  "author": "Anton Vinogradov <winogradovaa@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "got": "9.2.2"
+  },
+  "devDependencies": {
+    "@types/got": "8.3.4"
+  }
+}

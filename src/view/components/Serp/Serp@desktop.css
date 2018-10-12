@@ -1,0 +1,14 @@
+.Serp {
+    lost-flex-container: row;
+    lost-center: 820px;
+}
+
+.Serp-Filters {
+    lost-column: 3/9 0 20px flex;
+
+    max-height: 330px;
+}
+
+.Serp-Tickets {
+    lost-column: 6/9 0 20px flex;
+}

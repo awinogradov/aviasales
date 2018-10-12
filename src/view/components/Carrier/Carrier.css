@@ -1,0 +1,13 @@
+.Carrier {
+    min-width: 100%;
+    max-width: 120px;
+
+    height: 35px;
+
+    display: inline-block;
+}
+
+.Carrier_name_TK {
+    background: url(./_name/Carier_name_TK.png) no-repeat;
+    background-size: contain;
+}

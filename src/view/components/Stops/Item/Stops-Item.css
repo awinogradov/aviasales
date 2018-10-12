@@ -1,0 +1,23 @@
+.Stops-Item {
+    position: relative;
+
+    padding: 0 15px;
+    margin: 0 -15px;
+}
+
+.Stops-Item_hovered {
+    background-color: #F1FCFF;
+}
+
+.Stops-OnlyButton {
+    position: absolute;
+    right: 15px;
+    top: 12px;
+
+    color: #2196F3;
+    font-size: 11px;
+
+    background-color: transparent;
+
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.Button_action {
+    width: 100%;
+
+    border-radius: 5px;
+
+    box-shadow: 0 1px 0 0 #d64d08;
+
+    line-height: 1.4em;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+
+    background-color: #ff6d00;
+
+    padding: 5px 20px;
+}
+
+.Button_action.Button_hovered {
+    background-color: #FF8124;
+
+    box-shadow: 0 1px 0 0 #F7661D;
+}

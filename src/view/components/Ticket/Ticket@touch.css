@@ -1,0 +1,31 @@
+.Ticket-Stops {
+    padding-top: 8px;
+
+    font-size: 8px;
+}
+
+.Ticket-StopsInner:before {
+    display: none;
+}
+
+.Ticket-StopsInner:after {
+    position: relative;
+    display: block;
+
+    margin: 0 auto;
+}
+
+.Ticket-Info,
+.Ticket-Controls {
+    padding: 10px;
+}
+
+.Ticket-PointTime {
+    font-size: 28px;
+}
+
+.Ticket-Button {
+    font-size: 12px;
+
+    margin-top: 50px;
+}
