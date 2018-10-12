@@ -18,7 +18,7 @@ Point your browser to [http://localhost:3000/search/VVO1205TLV1](http://localhos
 
 ## How it works
 
-Shared React and TypeSripts on client and server. Based on the [my boilerplate](https://github.com/awinogradov/cra-ssr-boilerplate).
+Shared React and TypeScript on client and server. Based on the [my boilerplate](https://github.com/awinogradov/cra-ssr-boilerplate).
 
 ### Server
 
