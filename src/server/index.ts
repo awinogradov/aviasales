@@ -7,7 +7,6 @@ import * as bodyParser from 'body-parser';
 import * as cookieParser from 'cookie-parser';
 import * as MobileDetect from 'mobile-detect';
 import * as morgan from 'morgan';
-import { preloadAll } from 'react-loadable';
 
 import { setup } from './app';
 
@@ -48,7 +47,7 @@ function run(router: Router) {
 
     app.use(router);
 
-    preloadAll().then(() => server = app.listen(port));
+    server = app.listen(port);
 };
 
 run(setup(assetsManifest));
