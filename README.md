@@ -3,7 +3,7 @@
 ### Usage
 
 ``` bash
-❯ npm i
+❯ lerna bootstrap
 ❯ npm start
 ```
 
